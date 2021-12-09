@@ -46,6 +46,7 @@ class EmployersTable extends Table
             'joinTable' => 'employers_movements',
         ]);
     }
+    
 
     /**
      * Default validation rules.
@@ -66,7 +67,7 @@ class EmployersTable extends Table
             ->notEmptyString('nome');
 
         $validator
-            ->scalar('funcionario_cod')
+            ->integer('funcionario_cod')
             ->maxLength('funcionario_cod', 45)
             ->requirePresence('funcionario_cod', 'create')
             ->notEmptyString('funcionario_cod')
@@ -75,23 +76,26 @@ class EmployersTable extends Table
         $validator
             ->scalar('pis_pasep')
             ->maxLength('pis_pasep', 45)
-            ->allowEmptyString('pis_pasep');
+            ->notEmptyString('pis_pasep');
 
         $validator
-            ->scalar('rg')
+            ->integer('rg')
             ->maxLength('rg', 15)
-            ->allowEmptyString('rg');
+            ->requirePresence('rg', 'create')
+            ->notEmptyString('rg');
 
         $validator
-            ->scalar('cpf')
+            ->integer('cpf')
             ->maxLength('cpf', 11)
+            ->minLength('cpf', 11)
             ->requirePresence('cpf', 'create')
-            ->notEmptyString('cpf');
+            ->notEmptyString('cpf')
+            ->add('cpf', 'unique', ['rule' => 'validateUnique', 'provider' => 'table']);
 
         $validator
             ->scalar('ctps')
             ->maxLength('ctps', 15)
-            ->allowEmptyString('ctps');
+            ->notEmptyString('ctps');
 
         $validator
             ->date('data_inicio')
@@ -122,7 +126,7 @@ class EmployersTable extends Table
 
         $validator
             ->scalar('telefone')
-            ->maxLength('telefone', 45)
+            ->maxLength('telefone', 11)
             ->requirePresence('telefone', 'create')
             ->notEmptyString('telefone');
 
@@ -160,25 +164,25 @@ class EmployersTable extends Table
 
         $validator
             ->scalar('salario_banco')
-            ->maxLength('salario_banco', 45)
+            ->maxLength('salario_banco', 3)
             ->requirePresence('salario_banco', 'create')
             ->notEmptyString('salario_banco');
 
         $validator
             ->scalar('salario_agencia')
-            ->maxLength('salario_agencia', 45)
+            ->maxLength('salario_agencia', 5)
             ->requirePresence('salario_agencia', 'create')
             ->notEmptyString('salario_agencia');
 
         $validator
             ->scalar('salario_conta')
-            ->maxLength('salario_conta', 45)
+            ->maxLength('salario_conta', 15)
             ->requirePresence('salario_conta', 'create')
             ->notEmptyString('salario_conta');
 
         $validator
             ->scalar('chave_pix')
-            ->maxLength('chave_pix', 45)
+            ->maxLength('chave_pix', 100)
             ->requirePresence('chave_pix', 'create')
             ->notEmptyString('chave_pix');
 

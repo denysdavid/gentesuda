@@ -37,7 +37,10 @@ class MovementsController extends AppController
             'contain' => ['Employers']
            
         ]);
-
+        $employersmovement = $this->Movements->get($id, [
+            'contain' => ['EmployersMovements']
+           
+        ]);
         // dd($movement);
 
         $this->set('movement', $movement);

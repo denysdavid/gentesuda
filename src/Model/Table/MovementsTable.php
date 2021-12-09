@@ -42,6 +42,12 @@ class MovementsTable extends Table
             'joinTable' => 'employers_movements',
         ]);
         
+        $this->belongsToMany('Employers', [
+            'foreignKey' => 'movement_id',
+            'targetForeignKey' => 'employer_id',
+            'joinTable' => 'employers_movements',
+        ]);
+        
     }
 
     /**

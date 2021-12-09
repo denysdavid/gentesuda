@@ -57,7 +57,10 @@ class EmployersController extends AppController
             }
             $this->Flash->error(__('The employer could not be saved. Please, try again.'));
         }
-        $movements = $this->Employers->Movements->find('list', ['limit' => 200]);
+        // $movements = $this->Employers->Movements->find('list', ['limit' => 200]);
+        $movements = $this->Employers->Movements->find('list', ['keyField'=>'id','valueField'=>'movimentacao']);
+
+        //  $employers = $this->EmployersMovements->Employers->find('list', ['keyField' =>'id' ,'valueField' => 'nome' ]);
         $this->set(compact('employer', 'movements'));
     }
 

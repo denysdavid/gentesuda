@@ -1703,7 +1703,7 @@ msgstr ""
 
 #: Validation/Validator.php:2691
 msgid "The provided value is invalid"
-msgstr ""
+msgstr "O Formato é Inválido"
 
 #: View/Helper/FormHelper.php:1114
 msgid "Edit {0}"

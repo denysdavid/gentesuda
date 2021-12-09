@@ -54,7 +54,7 @@
             </tr>
             <?php foreach ($movement->employers as $employers): ?>
             <tr>
-               <?php dd($employers); ?>
+               
                 <td><?= h($employers->nome) ?></td>
                 <td><?= h($employers->funcionario_cod) ?></td>
                 <td><?= h($employers->cpf) ?></td>
