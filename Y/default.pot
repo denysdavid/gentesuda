@@ -1,0 +1,1767 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2021-12-08 17:39+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/CompaniesController.php:54
+#: Controller/CompaniesController.php:78
+msgid "The company has been saved."
+msgstr ""
+
+#: Controller/CompaniesController.php:58
+#: Controller/CompaniesController.php:82
+msgid "The company could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/CompaniesController.php:99
+msgid "The company has been deleted."
+msgstr ""
+
+#: Controller/CompaniesController.php:101
+msgid "The company could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/DepartmentsController.php:54
+#: Controller/DepartmentsController.php:78
+msgid "The department has been saved."
+msgstr ""
+
+#: Controller/DepartmentsController.php:58
+#: Controller/DepartmentsController.php:82
+msgid "The department could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/DepartmentsController.php:99
+msgid "The department has been deleted."
+msgstr ""
+
+#: Controller/DepartmentsController.php:101
+msgid "The department could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/EmployersController.php:54
+#: Controller/EmployersController.php:79
+msgid "The employer has been saved."
+msgstr ""
+
+#: Controller/EmployersController.php:58
+#: Controller/EmployersController.php:83
+msgid "The employer could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/EmployersController.php:101
+msgid "The employer has been deleted."
+msgstr ""
+
+#: Controller/EmployersController.php:103
+msgid "The employer could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/EmployersDataController.php:57
+#: Controller/EmployersDataController.php:89
+msgid "The employers data has been saved."
+msgstr ""
+
+#: Controller/EmployersDataController.php:61
+#: Controller/EmployersDataController.php:93
+msgid "The employers data could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/EmployersDataController.php:118
+msgid "The employers data has been deleted."
+msgstr ""
+
+#: Controller/EmployersDataController.php:120
+msgid "The employers data could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/EmployersMovementsController.php:57
+#: Controller/EmployersMovementsController.php:83
+msgid "The employers movement has been saved."
+msgstr ""
+
+#: Controller/EmployersMovementsController.php:61
+#: Controller/EmployersMovementsController.php:87
+msgid "The employers movement could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/EmployersMovementsController.php:106
+msgid "The employers movement has been deleted."
+msgstr ""
+
+#: Controller/EmployersMovementsController.php:108
+msgid "The employers movement could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/EmployersRolesController.php:54
+#: Controller/EmployersRolesController.php:78
+msgid "The employers role has been saved."
+msgstr ""
+
+#: Controller/EmployersRolesController.php:58
+#: Controller/EmployersRolesController.php:82
+msgid "The employers role could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/EmployersRolesController.php:99
+msgid "The employers role has been deleted."
+msgstr ""
+
+#: Controller/EmployersRolesController.php:101
+msgid "The employers role could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/MovementsController.php:54
+#: Controller/MovementsController.php:79
+msgid "The movement has been saved."
+msgstr ""
+
+#: Controller/MovementsController.php:58
+#: Controller/MovementsController.php:83
+msgid "The movement could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/MovementsController.php:101
+msgid "The movement has been deleted."
+msgstr ""
+
+#: Controller/MovementsController.php:103
+msgid "The movement could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/NotesController.php:54
+#: Controller/NotesController.php:78
+msgid "The note has been saved."
+msgstr ""
+
+#: Controller/NotesController.php:58
+#: Controller/NotesController.php:82
+msgid "The note could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/NotesController.php:99
+msgid "The note has been deleted."
+msgstr ""
+
+#: Controller/NotesController.php:101
+msgid "The note could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/PlansController.php:54
+#: Controller/PlansController.php:78
+msgid "The plan has been saved."
+msgstr ""
+
+#: Controller/PlansController.php:58
+#: Controller/PlansController.php:82
+msgid "The plan could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/PlansController.php:99
+msgid "The plan has been deleted."
+msgstr ""
+
+#: Controller/PlansController.php:101
+msgid "The plan could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/SituationsController.php:54
+#: Controller/SituationsController.php:78
+msgid "The situation has been saved."
+msgstr ""
+
+#: Controller/SituationsController.php:58
+#: Controller/SituationsController.php:82
+msgid "The situation could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/SituationsController.php:99
+msgid "The situation has been deleted."
+msgstr ""
+
+#: Controller/SituationsController.php:101
+msgid "The situation could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/TeamsController.php:54
+#: Controller/TeamsController.php:78
+msgid "The team has been saved."
+msgstr ""
+
+#: Controller/TeamsController.php:58
+#: Controller/TeamsController.php:82
+msgid "The team could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/TeamsController.php:99
+msgid "The team has been deleted."
+msgstr ""
+
+#: Controller/TeamsController.php:101
+msgid "The team could not be deleted. Please, try again."
+msgstr ""
+
+#: Template/Companies/add.ctp:9
+#: Template/Companies/edit.ctp:9
+#: Template/Companies/index.ctp:9
+#: Template/Companies/index.ctp:25
+#: Template/Companies/view.ctp:9
+#: Template/Companies/view.ctp:59
+#: Template/Departments/add.ctp:9
+#: Template/Departments/edit.ctp:9
+#: Template/Departments/index.ctp:9
+#: Template/Departments/index.ctp:25
+#: Template/Departments/view.ctp:9
+#: Template/Departments/view.ctp:59
+#: Template/Employers/add copy.ctp:9
+#: Template/Employers/add.ctp:9
+#: Template/Employers/edit.ctp:9
+#: Template/Employers/index copy.ctp:9
+#: Template/Employers/index copy.ctp:41
+#: Template/Employers/index.ctp:9
+#: Template/Employers/index.ctp:30
+#: Template/Employers/view copy.ctp:9
+#: Template/Employers/view copy.ctp:146
+#: Template/Employers/view copy.ctp:182
+#: Template/Employers/view.ctp:9
+#: Template/Employers/view.ctp:146
+#: Template/Employers/view.ctp:182
+#: Template/EmployersData/add.ctp:9
+#: Template/EmployersData/edit.ctp:9
+#: Template/EmployersData/index.ctp:9
+#: Template/EmployersData/index.ctp:44
+#: Template/EmployersData/view.ctp:9
+#: Template/EmployersMovements/add.ctp:9
+#: Template/EmployersMovements/edit.ctp:9
+#: Template/EmployersMovements/index.ctp:9
+#: Template/EmployersMovements/index.ctp:28
+#: Template/EmployersMovements/view.ctp:9
+#: Template/EmployersRoles/add.ctp:9
+#: Template/EmployersRoles/edit.ctp:9
+#: Template/EmployersRoles/index.ctp:9
+#: Template/EmployersRoles/index.ctp:25
+#: Template/EmployersRoles/view.ctp:9
+#: Template/EmployersRoles/view.ctp:59
+#: Template/Movements/add.ctp:9
+#: Template/Movements/edit.ctp:9
+#: Template/Movements/index.ctp:9
+#: Template/Movements/index.ctp:25
+#: Template/Movements/view.ctp:9
+#: Template/Movements/view.ctp:74
+#: Template/Notes/add.ctp:9
+#: Template/Notes/edit.ctp:9
+#: Template/Notes/index.ctp:9
+#: Template/Notes/index.ctp:25
+#: Template/Notes/view.ctp:9
+#: Template/Notes/view.ctp:59
+#: Template/Plans/add.ctp:9
+#: Template/Plans/edit.ctp:9
+#: Template/Plans/index.ctp:9
+#: Template/Plans/index.ctp:25
+#: Template/Plans/view.ctp:9
+#: Template/Plans/view.ctp:59
+#: Template/Situations/add.ctp:9
+#: Template/Situations/edit.ctp:9
+#: Template/Situations/index.ctp:9
+#: Template/Situations/index.ctp:25
+#: Template/Situations/view.ctp:9
+#: Template/Situations/view.ctp:59
+#: Template/Teams/add.ctp:9
+#: Template/Teams/edit.ctp:9
+#: Template/Teams/index.ctp:9
+#: Template/Teams/index.ctp:25
+#: Template/Teams/view.ctp:9
+#: Template/Teams/view.ctp:59
+msgid "Actions"
+msgstr ""
+
+#: Template/Companies/add.ctp:10
+#: Template/Companies/edit.ctp:16
+#: Template/Companies/view.ctp:12
+#: Template/EmployersData/add.ctp:19
+#: Template/EmployersData/edit.ctp:25
+#: Template/EmployersData/index.ctp:19
+#: Template/EmployersData/view.ctp:22
+msgid "List Companies"
+msgstr ""
+
+#: Template/Companies/add.ctp:11
+#: Template/Companies/edit.ctp:17
+#: Template/Companies/index.ctp:11
+#: Template/Companies/view.ctp:14
+#: Template/Departments/add.ctp:11
+#: Template/Departments/edit.ctp:17
+#: Template/Departments/index.ctp:11
+#: Template/Departments/view.ctp:14
+#: Template/Employers/edit.ctp:17
+#: Template/Employers/index copy.ctp:11
+#: Template/Employers/index.ctp:11
+#: Template/Employers/view copy.ctp:14
+#: Template/Employers/view.ctp:14
+#: Template/EmployersData/add.ctp:10
+#: Template/EmployersData/edit.ctp:16
+#: Template/EmployersData/view.ctp:12
+#: Template/EmployersRoles/add.ctp:11
+#: Template/EmployersRoles/edit.ctp:17
+#: Template/EmployersRoles/index.ctp:11
+#: Template/EmployersRoles/view.ctp:14
+#: Template/Notes/add.ctp:11
+#: Template/Notes/edit.ctp:17
+#: Template/Notes/index.ctp:11
+#: Template/Notes/view.ctp:14
+#: Template/Plans/add.ctp:11
+#: Template/Plans/edit.ctp:17
+#: Template/Plans/index.ctp:11
+#: Template/Plans/view.ctp:14
+#: Template/Situations/add.ctp:11
+#: Template/Situations/edit.ctp:17
+#: Template/Situations/index.ctp:11
+#: Template/Situations/view.ctp:14
+#: Template/Teams/add.ctp:11
+#: Template/Teams/edit.ctp:17
+#: Template/Teams/index.ctp:11
+#: Template/Teams/view.ctp:14
+msgid "List Employers Data"
+msgstr ""
+
+#: Template/Companies/add.ctp:12
+#: Template/Companies/edit.ctp:18
+#: Template/Companies/index.ctp:12
+#: Template/Companies/view.ctp:15
+#: Template/Departments/add.ctp:12
+#: Template/Departments/edit.ctp:18
+#: Template/Departments/index.ctp:12
+#: Template/Departments/view.ctp:15
+#: Template/Employers/edit.ctp:18
+#: Template/Employers/index copy.ctp:12
+#: Template/Employers/index.ctp:12
+#: Template/Employers/view copy.ctp:15
+#: Template/Employers/view.ctp:15
+#: Template/EmployersData/index.ctp:10
+#: Template/EmployersData/view.ctp:13
+#: Template/EmployersRoles/add.ctp:12
+#: Template/EmployersRoles/edit.ctp:18
+#: Template/EmployersRoles/index.ctp:12
+#: Template/EmployersRoles/view.ctp:15
+#: Template/Notes/add.ctp:12
+#: Template/Notes/edit.ctp:18
+#: Template/Notes/index.ctp:12
+#: Template/Notes/view.ctp:15
+#: Template/Plans/add.ctp:12
+#: Template/Plans/edit.ctp:18
+#: Template/Plans/index.ctp:12
+#: Template/Plans/view.ctp:15
+#: Template/Situations/add.ctp:12
+#: Template/Situations/edit.ctp:18
+#: Template/Situations/index.ctp:12
+#: Template/Situations/view.ctp:15
+#: Template/Teams/add.ctp:12
+#: Template/Teams/edit.ctp:18
+#: Template/Teams/index.ctp:12
+#: Template/Teams/view.ctp:15
+msgid "New Employers Data"
+msgstr ""
+
+#: Template/Companies/add.ctp:18
+msgid "Add Company"
+msgstr ""
+
+#: Template/Companies/add.ctp:26
+#: Template/Companies/edit.ctp:32
+#: Template/Departments/add.ctp:26
+#: Template/Departments/edit.ctp:32
+#: Template/Employers/add copy.ctp:77
+#: Template/Employers/add.ctp:110
+#: Template/Employers/edit.ctp:58
+#: Template/EmployersData/add.ctp:45
+#: Template/EmployersData/edit.ctp:51
+#: Template/EmployersMovements/add.ctp:29
+#: Template/EmployersMovements/edit.ctp:35
+#: Template/EmployersRoles/add.ctp:26
+#: Template/EmployersRoles/edit.ctp:32
+#: Template/Movements/add.ctp:27
+#: Template/Movements/edit.ctp:33
+#: Template/Notes/add.ctp:26
+#: Template/Notes/edit.ctp:32
+#: Template/Plans/add.ctp:26
+#: Template/Plans/edit.ctp:32
+#: Template/Situations/add.ctp:26
+#: Template/Situations/edit.ctp:32
+#: Template/Teams/add.ctp:26
+#: Template/Teams/edit.ctp:32
+#: View/Helper/FormHelper.php:2036
+msgid "Submit"
+msgstr ""
+
+#: Template/Companies/edit.ctp:11
+#: Template/Companies/index.ctp:39
+#: Template/Companies/view.ctp:78
+#: Template/Departments/edit.ctp:11
+#: Template/Departments/index.ctp:39
+#: Template/Departments/view.ctp:78
+#: Template/Employers/edit.ctp:11
+#: Template/Employers/index copy.ctp:69
+#: Template/Employers/index.ctp:47
+#: Template/Employers/view copy.ctp:158
+#: Template/Employers/view copy.ctp:201
+#: Template/Employers/view.ctp:158
+#: Template/Employers/view.ctp:201
+#: Template/EmployersData/edit.ctp:11
+#: Template/EmployersData/index.ctp:65
+#: Template/EmployersMovements/edit.ctp:11
+#: Template/EmployersMovements/index.ctp:43
+#: Template/EmployersRoles/edit.ctp:11
+#: Template/EmployersRoles/index.ctp:39
+#: Template/EmployersRoles/view.ctp:78
+#: Template/Movements/edit.ctp:11
+#: Template/Movements/index.ctp:39
+#: Template/Movements/view.ctp:108
+#: Template/Notes/edit.ctp:11
+#: Template/Notes/index.ctp:39
+#: Template/Notes/view.ctp:78
+#: Template/Plans/edit.ctp:11
+#: Template/Plans/index.ctp:39
+#: Template/Plans/view.ctp:78
+#: Template/Situations/edit.ctp:11
+#: Template/Situations/index.ctp:39
+#: Template/Situations/view.ctp:78
+#: Template/Teams/edit.ctp:11
+#: Template/Teams/index.ctp:39
+#: Template/Teams/view.ctp:78
+msgid "Delete"
+msgstr ""
+
+#: Template/Companies/edit.ctp:13
+#: Template/Companies/index.ctp:39
+#: Template/Companies/view.ctp:11
+#: Template/Companies/view.ctp:78
+#: Template/Departments/edit.ctp:13
+#: Template/Departments/index.ctp:39
+#: Template/Departments/view.ctp:11
+#: Template/Departments/view.ctp:78
+#: Template/Employers/edit.ctp:13
+#: Template/Employers/index copy.ctp:69
+#: Template/Employers/index.ctp:47
+#: Template/Employers/view copy.ctp:11
+#: Template/Employers/view copy.ctp:158
+#: Template/Employers/view copy.ctp:201
+#: Template/Employers/view.ctp:11
+#: Template/Employers/view.ctp:158
+#: Template/Employers/view.ctp:201
+#: Template/EmployersData/edit.ctp:13
+#: Template/EmployersData/index.ctp:65
+#: Template/EmployersData/view.ctp:11
+#: Template/EmployersMovements/edit.ctp:13
+#: Template/EmployersMovements/index.ctp:43
+#: Template/EmployersMovements/view.ctp:11
+#: Template/EmployersRoles/edit.ctp:13
+#: Template/EmployersRoles/index.ctp:39
+#: Template/EmployersRoles/view.ctp:11
+#: Template/EmployersRoles/view.ctp:78
+#: Template/Movements/edit.ctp:13
+#: Template/Movements/index.ctp:39
+#: Template/Movements/view.ctp:11
+#: Template/Movements/view.ctp:108
+#: Template/Notes/edit.ctp:13
+#: Template/Notes/index.ctp:39
+#: Template/Notes/view.ctp:11
+#: Template/Notes/view.ctp:78
+#: Template/Plans/edit.ctp:13
+#: Template/Plans/index.ctp:39
+#: Template/Plans/view.ctp:11
+#: Template/Plans/view.ctp:78
+#: Template/Situations/edit.ctp:13
+#: Template/Situations/index.ctp:39
+#: Template/Situations/view.ctp:11
+#: Template/Situations/view.ctp:78
+#: Template/Teams/edit.ctp:13
+#: Template/Teams/index.ctp:39
+#: Template/Teams/view.ctp:11
+#: Template/Teams/view.ctp:78
+msgid "Are you sure you want to delete # {0}?"
+msgstr ""
+
+#: Template/Companies/edit.ctp:24
+#: Template/Companies/view.ctp:10
+msgid "Edit Company"
+msgstr ""
+
+#: Template/Companies/index.ctp:10
+#: Template/Companies/view.ctp:13
+#: Template/EmployersData/add.ctp:20
+#: Template/EmployersData/edit.ctp:26
+#: Template/EmployersData/index.ctp:20
+#: Template/EmployersData/view.ctp:23
+msgid "New Company"
+msgstr ""
+
+#: Template/Companies/index.ctp:16
+msgid "Companies"
+msgstr ""
+
+#: Template/Companies/index.ctp:37
+#: Template/Companies/view.ctp:76
+#: Template/Departments/index.ctp:37
+#: Template/Departments/view.ctp:76
+#: Template/Employers/index copy.ctp:67
+#: Template/Employers/index.ctp:45
+#: Template/Employers/view copy.ctp:156
+#: Template/Employers/view copy.ctp:199
+#: Template/Employers/view.ctp:156
+#: Template/Employers/view.ctp:199
+#: Template/EmployersData/index.ctp:63
+#: Template/EmployersMovements/index.ctp:41
+#: Template/EmployersRoles/index.ctp:37
+#: Template/EmployersRoles/view.ctp:76
+#: Template/Movements/index.ctp:37
+#: Template/Movements/view.ctp:106
+#: Template/Notes/index.ctp:37
+#: Template/Notes/view.ctp:76
+#: Template/Plans/index.ctp:37
+#: Template/Plans/view.ctp:76
+#: Template/Situations/index.ctp:37
+#: Template/Situations/view.ctp:76
+#: Template/Teams/index.ctp:37
+#: Template/Teams/view.ctp:76
+#: View/Helper/PaginatorHelper.php:1273
+msgid "View"
+msgstr ""
+
+#: Template/Companies/index.ctp:38
+#: Template/Companies/view.ctp:77
+#: Template/Departments/index.ctp:38
+#: Template/Departments/view.ctp:77
+#: Template/Employers/index copy.ctp:68
+#: Template/Employers/index.ctp:46
+#: Template/Employers/view copy.ctp:157
+#: Template/Employers/view copy.ctp:200
+#: Template/Employers/view.ctp:157
+#: Template/Employers/view.ctp:200
+#: Template/EmployersData/index.ctp:64
+#: Template/EmployersMovements/index.ctp:42
+#: Template/EmployersRoles/index.ctp:38
+#: Template/EmployersRoles/view.ctp:77
+#: Template/Movements/index.ctp:38
+#: Template/Movements/view.ctp:107
+#: Template/Notes/index.ctp:38
+#: Template/Notes/view.ctp:77
+#: Template/Plans/index.ctp:38
+#: Template/Plans/view.ctp:77
+#: Template/Situations/index.ctp:38
+#: Template/Situations/view.ctp:77
+#: Template/Teams/index.ctp:38
+#: Template/Teams/view.ctp:77
+msgid "Edit"
+msgstr ""
+
+#: Template/Companies/index.ctp:47
+#: Template/Departments/index.ctp:47
+#: Template/Employers/index copy.ctp:77
+#: Template/Employers/index.ctp:55
+#: Template/EmployersData/index.ctp:73
+#: Template/EmployersMovements/index.ctp:51
+#: Template/EmployersRoles/index.ctp:47
+#: Template/Movements/index.ctp:47
+#: Template/Notes/index.ctp:47
+#: Template/Plans/index.ctp:47
+#: Template/Situations/index.ctp:47
+#: Template/Teams/index.ctp:47
+msgid "first"
+msgstr ""
+
+#: Template/Companies/index.ctp:48
+#: Template/Departments/index.ctp:48
+#: Template/Employers/index copy.ctp:78
+#: Template/Employers/index.ctp:56
+#: Template/EmployersData/index.ctp:74
+#: Template/EmployersMovements/index.ctp:52
+#: Template/EmployersRoles/index.ctp:48
+#: Template/Movements/index.ctp:48
+#: Template/Notes/index.ctp:48
+#: Template/Plans/index.ctp:48
+#: Template/Situations/index.ctp:48
+#: Template/Teams/index.ctp:48
+msgid "previous"
+msgstr ""
+
+#: Template/Companies/index.ctp:50
+#: Template/Departments/index.ctp:50
+#: Template/Employers/index copy.ctp:80
+#: Template/Employers/index.ctp:58
+#: Template/EmployersData/index.ctp:76
+#: Template/EmployersMovements/index.ctp:54
+#: Template/EmployersRoles/index.ctp:50
+#: Template/Movements/index.ctp:50
+#: Template/Notes/index.ctp:50
+#: Template/Plans/index.ctp:50
+#: Template/Situations/index.ctp:50
+#: Template/Teams/index.ctp:50
+msgid "next"
+msgstr ""
+
+#: Template/Companies/index.ctp:51
+#: Template/Departments/index.ctp:51
+#: Template/Employers/index copy.ctp:81
+#: Template/Employers/index.ctp:59
+#: Template/EmployersData/index.ctp:77
+#: Template/EmployersMovements/index.ctp:55
+#: Template/EmployersRoles/index.ctp:51
+#: Template/Movements/index.ctp:51
+#: Template/Notes/index.ctp:51
+#: Template/Plans/index.ctp:51
+#: Template/Situations/index.ctp:51
+#: Template/Teams/index.ctp:51
+msgid "last"
+msgstr ""
+
+#: Template/Companies/index.ctp:53
+#: Template/Departments/index.ctp:53
+#: Template/Employers/index copy.ctp:83
+#: Template/Employers/index.ctp:61
+#: Template/EmployersData/index.ctp:79
+#: Template/EmployersMovements/index.ctp:57
+#: Template/EmployersRoles/index.ctp:53
+#: Template/Movements/index.ctp:53
+#: Template/Notes/index.ctp:53
+#: Template/Plans/index.ctp:53
+#: Template/Situations/index.ctp:53
+#: Template/Teams/index.ctp:53
+msgid "Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} total"
+msgstr ""
+
+#: Template/Companies/view.ctp:11
+msgid "Delete Company"
+msgstr ""
+
+#: Template/Companies/view.ctp:22
+msgid "Empresa"
+msgstr ""
+
+#: Template/Companies/view.ctp:26
+#: Template/Companies/view.ctp:47
+#: Template/Departments/view.ctp:26
+#: Template/Departments/view.ctp:47
+#: Template/Employers/view copy.ctp:88
+#: Template/Employers/view copy.ctp:141
+#: Template/Employers/view copy.ctp:170
+#: Template/Employers/view.ctp:88
+#: Template/Employers/view.ctp:141
+#: Template/Employers/view.ctp:170
+#: Template/EmployersData/view.ctp:62
+#: Template/EmployersMovements/view.ctp:32
+#: Template/EmployersRoles/view.ctp:26
+#: Template/EmployersRoles/view.ctp:47
+#: Template/Movements/view.ctp:26
+#: Template/Movements/view.ctp:47
+#: Template/Notes/view.ctp:26
+#: Template/Notes/view.ctp:47
+#: Template/Plans/view.ctp:26
+#: Template/Plans/view.ctp:47
+#: Template/Situations/view.ctp:26
+#: Template/Situations/view.ctp:47
+#: Template/Teams/view.ctp:26
+#: Template/Teams/view.ctp:47
+msgid "Id"
+msgstr ""
+
+#: Template/Companies/view.ctp:30
+#: Template/Companies/view.ctp:56
+#: Template/Departments/view.ctp:30
+#: Template/Departments/view.ctp:56
+#: Template/Employers/view copy.ctp:124
+#: Template/Employers/view copy.ctp:143
+#: Template/Employers/view copy.ctp:179
+#: Template/Employers/view.ctp:124
+#: Template/Employers/view.ctp:143
+#: Template/Employers/view.ctp:179
+#: Template/EmployersData/view.ctp:70
+#: Template/EmployersMovements/view.ctp:36
+#: Template/EmployersRoles/view.ctp:30
+#: Template/EmployersRoles/view.ctp:56
+#: Template/Movements/view.ctp:30
+#: Template/Movements/view.ctp:71
+#: Template/Notes/view.ctp:30
+#: Template/Notes/view.ctp:56
+#: Template/Plans/view.ctp:30
+#: Template/Plans/view.ctp:56
+#: Template/Situations/view.ctp:30
+#: Template/Situations/view.ctp:56
+#: Template/Teams/view.ctp:30
+#: Template/Teams/view.ctp:56
+msgid "Created At"
+msgstr ""
+
+#: Template/Companies/view.ctp:34
+#: Template/Companies/view.ctp:57
+#: Template/Departments/view.ctp:34
+#: Template/Departments/view.ctp:57
+#: Template/Employers/view copy.ctp:128
+#: Template/Employers/view copy.ctp:144
+#: Template/Employers/view copy.ctp:180
+#: Template/Employers/view.ctp:128
+#: Template/Employers/view.ctp:144
+#: Template/Employers/view.ctp:180
+#: Template/EmployersData/view.ctp:74
+#: Template/EmployersMovements/view.ctp:40
+#: Template/EmployersRoles/view.ctp:34
+#: Template/EmployersRoles/view.ctp:57
+#: Template/Movements/view.ctp:34
+#: Template/Movements/view.ctp:72
+#: Template/Notes/view.ctp:34
+#: Template/Notes/view.ctp:57
+#: Template/Plans/view.ctp:34
+#: Template/Plans/view.ctp:57
+#: Template/Situations/view.ctp:34
+#: Template/Situations/view.ctp:57
+#: Template/Teams/view.ctp:57
+msgid "Updated At"
+msgstr ""
+
+#: Template/Companies/view.ctp:38
+#: Template/Companies/view.ctp:58
+#: Template/Departments/view.ctp:38
+#: Template/Departments/view.ctp:58
+#: Template/Employers/view copy.ctp:132
+#: Template/Employers/view copy.ctp:145
+#: Template/Employers/view copy.ctp:181
+#: Template/Employers/view.ctp:132
+#: Template/Employers/view.ctp:145
+#: Template/Employers/view.ctp:181
+#: Template/EmployersData/view.ctp:78
+#: Template/EmployersMovements/view.ctp:44
+#: Template/EmployersRoles/view.ctp:38
+#: Template/EmployersRoles/view.ctp:58
+#: Template/Movements/view.ctp:38
+#: Template/Movements/view.ctp:73
+#: Template/Notes/view.ctp:38
+#: Template/Notes/view.ctp:58
+#: Template/Plans/view.ctp:58
+#: Template/Situations/view.ctp:38
+#: Template/Situations/view.ctp:58
+#: Template/Teams/view.ctp:38
+#: Template/Teams/view.ctp:58
+msgid "Deleted At"
+msgstr ""
+
+#: Template/Companies/view.ctp:43
+#: Template/Departments/view.ctp:43
+#: Template/Employers/view copy.ctp:166
+#: Template/Employers/view.ctp:166
+#: Template/EmployersRoles/view.ctp:43
+#: Template/Notes/view.ctp:43
+#: Template/Plans/view.ctp:43
+#: Template/Situations/view.ctp:43
+#: Template/Teams/view.ctp:43
+msgid "Related Employers Data"
+msgstr ""
+
+#: Template/Companies/view.ctp:48
+#: Template/Departments/view.ctp:48
+#: Template/Employers/view copy.ctp:171
+#: Template/Employers/view.ctp:171
+#: Template/EmployersRoles/view.ctp:48
+#: Template/Notes/view.ctp:48
+#: Template/Plans/view.ctp:48
+#: Template/Situations/view.ctp:48
+#: Template/Teams/view.ctp:48
+msgid "Employer Id"
+msgstr ""
+
+#: Template/Companies/view.ctp:49
+#: Template/Departments/view.ctp:49
+#: Template/Employers/view copy.ctp:172
+#: Template/Employers/view.ctp:172
+#: Template/EmployersRoles/view.ctp:49
+#: Template/Notes/view.ctp:49
+#: Template/Plans/view.ctp:49
+#: Template/Situations/view.ctp:49
+#: Template/Teams/view.ctp:49
+msgid "Employers Role Id"
+msgstr ""
+
+#: Template/Companies/view.ctp:50
+#: Template/Departments/view.ctp:50
+#: Template/Employers/view copy.ctp:173
+#: Template/Employers/view.ctp:173
+#: Template/EmployersRoles/view.ctp:50
+#: Template/Notes/view.ctp:50
+#: Template/Plans/view.ctp:50
+#: Template/Situations/view.ctp:50
+#: Template/Teams/view.ctp:50
+msgid "Department Id"
+msgstr ""
+
+#: Template/Companies/view.ctp:51
+#: Template/Departments/view.ctp:51
+#: Template/Employers/view copy.ctp:174
+#: Template/Employers/view.ctp:174
+#: Template/EmployersRoles/view.ctp:51
+#: Template/Notes/view.ctp:51
+#: Template/Plans/view.ctp:51
+#: Template/Situations/view.ctp:51
+#: Template/Teams/view.ctp:51
+msgid "Situation Id"
+msgstr ""
+
+#: Template/Companies/view.ctp:52
+#: Template/Departments/view.ctp:52
+#: Template/Employers/view copy.ctp:175
+#: Template/Employers/view.ctp:175
+#: Template/EmployersRoles/view.ctp:52
+#: Template/Notes/view.ctp:52
+#: Template/Plans/view.ctp:52
+#: Template/Situations/view.ctp:52
+#: Template/Teams/view.ctp:52
+msgid "Company Id"
+msgstr ""
+
+#: Template/Companies/view.ctp:53
+#: Template/Departments/view.ctp:53
+#: Template/Employers/view copy.ctp:176
+#: Template/Employers/view.ctp:176
+#: Template/EmployersData/view.ctp:66
+#: Template/EmployersRoles/view.ctp:53
+#: Template/Notes/view.ctp:53
+#: Template/Plans/view.ctp:53
+#: Template/Situations/view.ctp:53
+#: Template/Teams/view.ctp:53
+msgid "Plan Id"
+msgstr ""
+
+#: Template/Companies/view.ctp:54
+#: Template/Departments/view.ctp:54
+#: Template/Employers/view copy.ctp:177
+#: Template/Employers/view.ctp:177
+#: Template/EmployersRoles/view.ctp:54
+#: Template/Notes/view.ctp:54
+#: Template/Plans/view.ctp:54
+#: Template/Situations/view.ctp:54
+#: Template/Teams/view.ctp:54
+msgid "Team Id"
+msgstr ""
+
+#: Template/Companies/view.ctp:55
+#: Template/Departments/view.ctp:55
+#: Template/Employers/view copy.ctp:178
+#: Template/Employers/view.ctp:178
+#: Template/EmployersRoles/view.ctp:55
+#: Template/Notes/view.ctp:55
+#: Template/Plans/view.ctp:55
+#: Template/Situations/view.ctp:55
+#: Template/Teams/view.ctp:55
+msgid "Note Id"
+msgstr ""
+
+#: Template/Departments/add.ctp:10
+#: Template/Departments/edit.ctp:16
+#: Template/Departments/view.ctp:12
+#: Template/EmployersData/add.ctp:15
+#: Template/EmployersData/edit.ctp:21
+#: Template/EmployersData/index.ctp:15
+#: Template/EmployersData/view.ctp:18
+msgid "List Departments"
+msgstr ""
+
+#: Template/Departments/add.ctp:18
+msgid "Add Department"
+msgstr ""
+
+#: Template/Departments/edit.ctp:24
+#: Template/Departments/view.ctp:10
+msgid "Edit Department"
+msgstr ""
+
+#: Template/Departments/index.ctp:10
+#: Template/Departments/view.ctp:13
+#: Template/EmployersData/add.ctp:16
+#: Template/EmployersData/edit.ctp:22
+#: Template/EmployersData/index.ctp:16
+#: Template/EmployersData/view.ctp:19
+msgid "New Department"
+msgstr ""
+
+#: Template/Departments/index.ctp:16
+msgid "Departments"
+msgstr ""
+
+#: Template/Departments/view.ctp:11
+msgid "Delete Department"
+msgstr ""
+
+#: Template/Departments/view.ctp:22
+msgid "Departamento"
+msgstr ""
+
+#: Template/Employers/add copy.ctp:10
+#: Template/Employers/add.ctp:10
+msgid "Funcionários"
+msgstr ""
+
+#: Template/Employers/add copy.ctp:11
+#: Template/Employers/add.ctp:11
+msgid "Funcionários dados"
+msgstr ""
+
+#: Template/Employers/add copy.ctp:12
+#: Template/Employers/add.ctp:12
+msgid "Movimentações"
+msgstr ""
+
+#: Template/Employers/add copy.ctp:22
+msgid "Novo Funcionário"
+msgstr ""
+
+#: Template/Employers/edit.ctp:16
+#: Template/Employers/view copy.ctp:12
+#: Template/Employers/view.ctp:12
+#: Template/EmployersData/add.ctp:11
+#: Template/EmployersData/edit.ctp:17
+#: Template/EmployersData/index.ctp:11
+#: Template/EmployersData/view.ctp:14
+#: Template/EmployersMovements/add.ctp:11
+#: Template/EmployersMovements/edit.ctp:17
+#: Template/EmployersMovements/index.ctp:11
+#: Template/EmployersMovements/view.ctp:14
+#: Template/Movements/add.ctp:11
+#: Template/Movements/edit.ctp:17
+#: Template/Movements/index.ctp:11
+#: Template/Movements/view.ctp:14
+msgid "List Employers"
+msgstr ""
+
+#: Template/Employers/edit.ctp:19
+#: Template/Employers/index copy.ctp:13
+#: Template/Employers/index.ctp:13
+#: Template/Employers/view copy.ctp:16
+#: Template/Employers/view.ctp:16
+#: Template/EmployersMovements/add.ctp:13
+#: Template/EmployersMovements/edit.ctp:19
+#: Template/EmployersMovements/index.ctp:13
+#: Template/EmployersMovements/view.ctp:16
+#: Template/Movements/add.ctp:10
+#: Template/Movements/edit.ctp:16
+#: Template/Movements/view.ctp:12
+msgid "List Movements"
+msgstr ""
+
+#: Template/Employers/edit.ctp:20
+#: Template/Employers/index copy.ctp:14
+#: Template/Employers/index.ctp:14
+#: Template/Employers/view copy.ctp:17
+#: Template/Employers/view.ctp:17
+#: Template/EmployersMovements/add.ctp:14
+#: Template/EmployersMovements/edit.ctp:20
+#: Template/EmployersMovements/index.ctp:14
+#: Template/EmployersMovements/view.ctp:17
+#: Template/Movements/index.ctp:10
+#: Template/Movements/view.ctp:13
+msgid "New Movement"
+msgstr ""
+
+#: Template/Employers/edit.ctp:26
+#: Template/Employers/view copy.ctp:10
+#: Template/Employers/view.ctp:10
+msgid "Edit Employer"
+msgstr ""
+
+#: Template/Employers/index copy.ctp:10
+#: Template/Employers/index.ctp:10
+#: Template/Employers/view copy.ctp:13
+#: Template/Employers/view.ctp:13
+#: Template/EmployersData/add.ctp:12
+#: Template/EmployersData/edit.ctp:18
+#: Template/EmployersData/index.ctp:12
+#: Template/EmployersData/view.ctp:15
+#: Template/EmployersMovements/add.ctp:12
+#: Template/EmployersMovements/edit.ctp:18
+#: Template/EmployersMovements/index.ctp:12
+#: Template/EmployersMovements/view.ctp:15
+#: Template/Movements/add.ctp:12
+#: Template/Movements/edit.ctp:18
+#: Template/Movements/index.ctp:12
+#: Template/Movements/view.ctp:15
+msgid "New Employer"
+msgstr ""
+
+#: Template/Employers/index copy.ctp:18
+#: Template/Employers/index.ctp:18
+msgid "Employers"
+msgstr ""
+
+#: Template/Employers/view copy.ctp:11
+#: Template/Employers/view.ctp:11
+msgid "Delete Employer"
+msgstr ""
+
+#: Template/Employers/view copy.ctp:24
+#: Template/Employers/view.ctp:24
+#: Template/Movements/view.ctp:48
+msgid "Nome"
+msgstr ""
+
+#: Template/Employers/view copy.ctp:28
+#: Template/Employers/view.ctp:28
+msgid "Funcionario Cod"
+msgstr ""
+
+#: Template/Employers/view copy.ctp:32
+#: Template/Employers/view.ctp:32
+#: Template/Movements/view.ctp:49
+msgid "Pis Pasep"
+msgstr ""
+
+#: Template/Employers/view copy.ctp:36
+#: Template/Employers/view.ctp:36
+#: Template/Movements/view.ctp:50
+msgid "Rg"
+msgstr ""
+
+#: Template/Employers/view copy.ctp:40
+#: Template/Employers/view.ctp:40
+#: Template/Movements/view.ctp:51
+msgid "Cpf"
+msgstr ""
+
+#: Template/Employers/view copy.ctp:44
+#: Template/Employers/view.ctp:44
+#: Template/Movements/view.ctp:52
+msgid "Ctps"
+msgstr ""
+
+#: Template/Employers/view copy.ctp:48
+#: Template/Employers/view.ctp:48
+#: Template/Movements/view.ctp:59
+msgid "Telefone"
+msgstr ""
+
+#: Template/Employers/view copy.ctp:52
+#: Template/Employers/view.ctp:52
+#: Template/Movements/view.ctp:60
+msgid "Email"
+msgstr ""
+
+#: Template/Employers/view copy.ctp:56
+#: Template/Employers/view.ctp:56
+#: Template/Movements/view.ctp:61
+msgid "Adicional Salario"
+msgstr ""
+
+#: Template/Employers/view copy.ctp:60
+#: Template/Employers/view.ctp:60
+#: Template/Movements/view.ctp:64
+msgid "Assinatura Home Office"
+msgstr ""
+
+#: Template/Employers/view copy.ctp:64
+#: Template/Employers/view.ctp:64
+#: Template/Movements/view.ctp:65
+msgid "Assinatura Admissao"
+msgstr ""
+
+#: Template/Employers/view copy.ctp:68
+#: Template/Employers/view.ctp:68
+#: Template/Movements/view.ctp:66
+msgid "Salario Banco"
+msgstr ""
+
+#: Template/Employers/view copy.ctp:72
+#: Template/Employers/view.ctp:72
+#: Template/Movements/view.ctp:67
+msgid "Salario Agencia"
+msgstr ""
+
+#: Template/Employers/view copy.ctp:76
+#: Template/Employers/view.ctp:76
+#: Template/Movements/view.ctp:68
+msgid "Salario Conta"
+msgstr ""
+
+#: Template/Employers/view copy.ctp:80
+#: Template/Employers/view.ctp:80
+#: Template/Movements/view.ctp:69
+msgid "Chave Pix"
+msgstr ""
+
+#: Template/Employers/view copy.ctp:84
+#: Template/Employers/view.ctp:84
+#: Template/Movements/view.ctp:70
+msgid "Observacoes"
+msgstr ""
+
+#: Template/Employers/view copy.ctp:92
+#: Template/Employers/view.ctp:92
+#: Template/Movements/view.ctp:58
+msgid "Idade"
+msgstr ""
+
+#: Template/Employers/view copy.ctp:96
+#: Template/Employers/view.ctp:96
+#: Template/Movements/view.ctp:53
+msgid "Data Inicio"
+msgstr ""
+
+#: Template/Employers/view copy.ctp:100
+#: Template/Employers/view.ctp:100
+#: Template/Movements/view.ctp:54
+msgid "Data Admissao"
+msgstr ""
+
+#: Template/Employers/view copy.ctp:104
+#: Template/Employers/view.ctp:104
+#: Template/Movements/view.ctp:55
+msgid "Data Demissao"
+msgstr ""
+
+#: Template/Employers/view copy.ctp:108
+#: Template/Employers/view.ctp:108
+#: Template/Movements/view.ctp:56
+msgid "Data Nascimento"
+msgstr ""
+
+#: Template/Employers/view copy.ctp:112
+#: Template/Employers/view.ctp:112
+#: Template/Movements/view.ctp:57
+msgid "Data Referencia"
+msgstr ""
+
+#: Template/Employers/view copy.ctp:116
+#: Template/Employers/view.ctp:116
+#: Template/Movements/view.ctp:62
+msgid "Data Experiencia 1"
+msgstr ""
+
+#: Template/Employers/view copy.ctp:120
+#: Template/Employers/view.ctp:120
+#: Template/Movements/view.ctp:63
+msgid "Data Experiencia 2"
+msgstr ""
+
+#: Template/Employers/view copy.ctp:137
+#: Template/Employers/view.ctp:137
+msgid "Related Movements"
+msgstr ""
+
+#: Template/Employers/view copy.ctp:142
+#: Template/Employers/view.ctp:142
+#: Template/Movements/view.ctp:22
+msgid "Movimentacao"
+msgstr ""
+
+#: Template/EmployersData/add.ctp:13
+#: Template/EmployersData/edit.ctp:19
+#: Template/EmployersData/index.ctp:13
+#: Template/EmployersData/view.ctp:16
+#: Template/EmployersRoles/add.ctp:10
+#: Template/EmployersRoles/edit.ctp:16
+#: Template/EmployersRoles/view.ctp:12
+msgid "List Employers Roles"
+msgstr ""
+
+#: Template/EmployersData/add.ctp:14
+#: Template/EmployersData/edit.ctp:20
+#: Template/EmployersData/index.ctp:14
+#: Template/EmployersData/view.ctp:17
+#: Template/EmployersRoles/index.ctp:10
+#: Template/EmployersRoles/view.ctp:13
+msgid "New Employers Role"
+msgstr ""
+
+#: Template/EmployersData/add.ctp:17
+#: Template/EmployersData/edit.ctp:23
+#: Template/EmployersData/index.ctp:17
+#: Template/EmployersData/view.ctp:20
+#: Template/Situations/add.ctp:10
+#: Template/Situations/edit.ctp:16
+#: Template/Situations/view.ctp:12
+msgid "List Situations"
+msgstr ""
+
+#: Template/EmployersData/add.ctp:18
+#: Template/EmployersData/edit.ctp:24
+#: Template/EmployersData/index.ctp:18
+#: Template/EmployersData/view.ctp:21
+#: Template/Situations/index.ctp:10
+#: Template/Situations/view.ctp:13
+msgid "New Situation"
+msgstr ""
+
+#: Template/EmployersData/add.ctp:21
+#: Template/EmployersData/edit.ctp:27
+#: Template/EmployersData/index.ctp:21
+#: Template/EmployersData/view.ctp:24
+#: Template/Teams/add.ctp:10
+#: Template/Teams/edit.ctp:16
+#: Template/Teams/view.ctp:12
+msgid "List Teams"
+msgstr ""
+
+#: Template/EmployersData/add.ctp:22
+#: Template/EmployersData/edit.ctp:28
+#: Template/EmployersData/index.ctp:22
+#: Template/EmployersData/view.ctp:25
+#: Template/Teams/index.ctp:10
+#: Template/Teams/view.ctp:13
+msgid "New Team"
+msgstr ""
+
+#: Template/EmployersData/add.ctp:23
+#: Template/EmployersData/edit.ctp:29
+#: Template/EmployersData/index.ctp:23
+#: Template/EmployersData/view.ctp:26
+#: Template/Notes/add.ctp:10
+#: Template/Notes/edit.ctp:16
+#: Template/Notes/view.ctp:12
+msgid "List Notes"
+msgstr ""
+
+#: Template/EmployersData/add.ctp:24
+#: Template/EmployersData/edit.ctp:30
+#: Template/EmployersData/index.ctp:24
+#: Template/EmployersData/view.ctp:27
+#: Template/Notes/index.ctp:10
+#: Template/Notes/view.ctp:13
+msgid "New Note"
+msgstr ""
+
+#: Template/EmployersData/add.ctp:30
+msgid "Add Employers Data"
+msgstr ""
+
+#: Template/EmployersData/edit.ctp:36
+#: Template/EmployersData/view.ctp:10
+msgid "Edit Employers Data"
+msgstr ""
+
+#: Template/EmployersData/index.ctp:28
+msgid "Employers Data"
+msgstr ""
+
+#: Template/EmployersData/view.ctp:11
+msgid "Delete Employers Data"
+msgstr ""
+
+#: Template/EmployersData/view.ctp:34
+#: Template/EmployersMovements/view.ctp:24
+msgid "Employer"
+msgstr ""
+
+#: Template/EmployersData/view.ctp:38
+msgid "Employers Role"
+msgstr ""
+
+#: Template/EmployersData/view.ctp:42
+msgid "Department"
+msgstr ""
+
+#: Template/EmployersData/view.ctp:46
+msgid "Situation"
+msgstr ""
+
+#: Template/EmployersData/view.ctp:50
+msgid "Company"
+msgstr ""
+
+#: Template/EmployersData/view.ctp:54
+msgid "Team"
+msgstr ""
+
+#: Template/EmployersData/view.ctp:58
+msgid "Note"
+msgstr ""
+
+#: Template/EmployersMovements/add.ctp:10
+#: Template/EmployersMovements/edit.ctp:16
+#: Template/EmployersMovements/view.ctp:12
+msgid "List Employers Movements"
+msgstr ""
+
+#: Template/EmployersMovements/add.ctp:20
+msgid "Add Employers Movement"
+msgstr ""
+
+#: Template/EmployersMovements/edit.ctp:26
+#: Template/EmployersMovements/view.ctp:10
+msgid "Edit Employers Movement"
+msgstr ""
+
+#: Template/EmployersMovements/index.ctp:10
+#: Template/EmployersMovements/view.ctp:13
+msgid "New Employers Movement"
+msgstr ""
+
+#: Template/EmployersMovements/index.ctp:18
+msgid "Employers Movements"
+msgstr ""
+
+#: Template/EmployersMovements/view.ctp:11
+msgid "Delete Employers Movement"
+msgstr ""
+
+#: Template/EmployersMovements/view.ctp:28
+msgid "Movement"
+msgstr ""
+
+#: Template/EmployersRoles/add.ctp:18
+msgid "Add Employers Role"
+msgstr ""
+
+#: Template/EmployersRoles/edit.ctp:24
+#: Template/EmployersRoles/view.ctp:10
+msgid "Edit Employers Role"
+msgstr ""
+
+#: Template/EmployersRoles/index.ctp:16
+msgid "Employers Roles"
+msgstr ""
+
+#: Template/EmployersRoles/view.ctp:11
+msgid "Delete Employers Role"
+msgstr ""
+
+#: Template/EmployersRoles/view.ctp:22
+msgid "Funcao"
+msgstr ""
+
+#: Template/Layout/error.ctp:36
+#: Template/Error/error400.ctp:36
+#: Template/Error/error500.ctp:41
+msgid "Error"
+msgstr ""
+
+#: Template/Layout/error.ctp:44
+msgid "Back"
+msgstr ""
+
+#: Template/Movements/add.ctp:18
+msgid "Add Movement"
+msgstr ""
+
+#: Template/Movements/edit.ctp:24
+#: Template/Movements/view.ctp:10
+msgid "Edit Movement"
+msgstr ""
+
+#: Template/Movements/index.ctp:16
+msgid "Movements"
+msgstr ""
+
+#: Template/Movements/view.ctp:11
+msgid "Delete Movement"
+msgstr ""
+
+#: Template/Movements/view.ctp:43
+msgid "Related Employers"
+msgstr ""
+
+#: Template/Notes/add.ctp:18
+msgid "Add Note"
+msgstr ""
+
+#: Template/Notes/edit.ctp:24
+#: Template/Notes/view.ctp:10
+msgid "Edit Note"
+msgstr ""
+
+#: Template/Notes/index.ctp:16
+msgid "Notes"
+msgstr ""
+
+#: Template/Notes/view.ctp:11
+msgid "Delete Note"
+msgstr ""
+
+#: Template/Notes/view.ctp:22
+msgid "Anotacao"
+msgstr ""
+
+#: Template/Plans/add.ctp:10
+#: Template/Plans/edit.ctp:16
+#: Template/Plans/view.ctp:12
+msgid "List Plans"
+msgstr ""
+
+#: Template/Plans/add.ctp:18
+msgid "Add Plan"
+msgstr ""
+
+#: Template/Plans/edit.ctp:24
+#: Template/Plans/view.ctp:10
+msgid "Edit Plan"
+msgstr ""
+
+#: Template/Plans/index.ctp:10
+#: Template/Plans/view.ctp:13
+msgid "New Plan"
+msgstr ""
+
+#: Template/Plans/index.ctp:16
+msgid "Plans"
+msgstr ""
+
+#: Template/Plans/view.ctp:11
+msgid "Delete Plan"
+msgstr ""
+
+#: Template/Plans/view.ctp:22
+msgid "Plano"
+msgstr ""
+
+#: Template/Plans/view.ctp:38
+msgid "Deleted Aat"
+msgstr ""
+
+#: Template/Situations/add.ctp:18
+msgid "Add Situation"
+msgstr ""
+
+#: Template/Situations/edit.ctp:24
+#: Template/Situations/view.ctp:10
+msgid "Edit Situation"
+msgstr ""
+
+#: Template/Situations/index.ctp:16
+msgid "Situations"
+msgstr ""
+
+#: Template/Situations/view.ctp:11
+msgid "Delete Situation"
+msgstr ""
+
+#: Template/Situations/view.ctp:22
+msgid "Situacao"
+msgstr ""
+
+#: Template/Teams/add.ctp:18
+msgid "Add Team"
+msgstr ""
+
+#: Template/Teams/edit.ctp:24
+#: Template/Teams/view.ctp:10
+msgid "Edit Team"
+msgstr ""
+
+#: Template/Teams/index.ctp:16
+msgid "Teams"
+msgstr ""
+
+#: Template/Teams/view.ctp:11
+msgid "Delete Team"
+msgstr ""
+
+#: Template/Teams/view.ctp:22
+msgid "Equipe"
+msgstr ""
+
+#: Template/Teams/view.ctp:34
+msgid "Update At"
+msgstr ""
+
+#: Template/Error/error400.ctp:37
+msgid "The requested address {0} was not found on this server."
+msgstr ""
+
+#: Template/Error/error500.ctp:39
+msgid "An Internal Error Has Occurred"
+msgstr ""
+
+#: Controller/Component/AuthComponent.php:502
+msgid "You are not authorized to access that location."
+msgstr ""
+
+#: Controller/Component/CsrfComponent.php:181
+#: Http/Middleware/CsrfProtectionMiddleware.php:231
+msgid "Missing CSRF token cookie"
+msgstr ""
+
+#: Controller/Component/CsrfComponent.php:185
+#: Http/Middleware/CsrfProtectionMiddleware.php:235
+msgid "CSRF token mismatch."
+msgstr ""
+
+#: Error/ExceptionRenderer.php:301
+msgid "Not Found"
+msgstr ""
+
+#: Error/ExceptionRenderer.php:303
+msgid "An Internal Error Has Occurred."
+msgstr ""
+
+#: Http/Response.php:2680
+msgid "The requested file contains `..` and will not be read."
+msgstr ""
+
+#: Http/Response.php:2701
+msgid "The requested file was not found"
+msgstr ""
+
+#: I18n/Number.php:106
+msgid "{0,number,#,###.##} KB"
+msgstr ""
+
+#: I18n/Number.php:108
+msgid "{0,number,#,###.##} MB"
+msgstr ""
+
+#: I18n/Number.php:110
+msgid "{0,number,#,###.##} GB"
+msgstr ""
+
+#: I18n/Number.php:112
+msgid "{0,number,#,###.##} TB"
+msgstr ""
+
+#: I18n/Number.php:104
+msgid "{0,number,integer} Byte"
+msgid_plural "{0,number,integer} Bytes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:80
+msgid "{0} from now"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:80
+msgid "{0} ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:83
+msgid "{0} after"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:83
+msgid "{0} before"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:114
+msgid "just now"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:151
+msgid "about a second ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:152
+msgid "about a minute ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:153
+msgid "about an hour ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:154
+#: I18n/RelativeTimeFormatter.php:332
+msgid "about a day ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:155
+#: I18n/RelativeTimeFormatter.php:333
+msgid "about a week ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:156
+#: I18n/RelativeTimeFormatter.php:334
+msgid "about a month ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:157
+#: I18n/RelativeTimeFormatter.php:335
+msgid "about a year ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:168
+msgid "in about a second"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:169
+msgid "in about a minute"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:170
+msgid "in about an hour"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:171
+#: I18n/RelativeTimeFormatter.php:346
+msgid "in about a day"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:172
+#: I18n/RelativeTimeFormatter.php:347
+msgid "in about a week"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:173
+#: I18n/RelativeTimeFormatter.php:348
+msgid "in about a month"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:174
+#: I18n/RelativeTimeFormatter.php:349
+msgid "in about a year"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:304
+msgid "today"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:370
+msgid "%s ago"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:371
+msgid "on %s"
+msgstr ""
+
+#: I18n/RelativeTimeFormatter.php:47
+#: I18n/RelativeTimeFormatter.php:126
+#: I18n/RelativeTimeFormatter.php:316
+msgid "{0} year"
+msgid_plural "{0} years"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:51
+#: I18n/RelativeTimeFormatter.php:129
+#: I18n/RelativeTimeFormatter.php:319
+msgid "{0} month"
+msgid_plural "{0} months"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:57
+#: I18n/RelativeTimeFormatter.php:132
+#: I18n/RelativeTimeFormatter.php:322
+msgid "{0} week"
+msgid_plural "{0} weeks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:59
+#: I18n/RelativeTimeFormatter.php:135
+#: I18n/RelativeTimeFormatter.php:325
+msgid "{0} day"
+msgid_plural "{0} days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:64
+#: I18n/RelativeTimeFormatter.php:138
+msgid "{0} hour"
+msgid_plural "{0} hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:68
+#: I18n/RelativeTimeFormatter.php:141
+msgid "{0} minute"
+msgid_plural "{0} minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:72
+#: I18n/RelativeTimeFormatter.php:144
+msgid "{0} second"
+msgid_plural "{0} seconds"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ORM/RulesChecker.php:56
+msgid "This value is already in use"
+msgstr ""
+
+#: ORM/RulesChecker.php:103
+msgid "This value does not exist"
+msgstr ""
+
+#: ORM/RulesChecker.php:127
+msgid "The count does not match {0}{1}"
+msgstr ""
+
+#: Utility/Text.php:933
+msgid "and"
+msgstr ""
+
+#: Validation/Validator.php:2510
+#: View/Form/ArrayContext.php:226
+msgid "This field is required"
+msgstr ""
+
+#: Validation/Validator.php:2532
+msgid "This field cannot be left empty"
+msgstr ""
+
+#: Validation/Validator.php:2691
+msgid "The provided value is invalid"
+msgstr ""
+
+#: View/Helper/FormHelper.php:1114
+msgid "Edit {0}"
+msgstr ""
+
+#: View/Helper/FormHelper.php:1116
+msgid "New {0}"
+msgstr ""
+
+#: View/Helper/HtmlHelper.php:831
+msgid "Home"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:539
+msgid "January"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:540
+msgid "February"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:541
+msgid "March"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:542
+msgid "April"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:543
+msgid "May"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:544
+msgid "June"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:545
+msgid "July"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:546
+msgid "August"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:547
+msgid "September"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:548
+msgid "October"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:549
+msgid "November"
+msgstr ""
+
+#: View/Widget/DateTimeWidget.php:550
+msgid "December"
+msgstr ""
+
